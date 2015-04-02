@@ -143,8 +143,8 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
 
 .draw {
   stroke-dasharray: 1000px;
-  -webkit-animation: draw 3s linear  ;
-          animation: draw 3s linear  ; }
+  -webkit-animation: draw 2s linear  ;
+          animation: draw 2s linear  ; }
 
 body {
   background: turquoise;
