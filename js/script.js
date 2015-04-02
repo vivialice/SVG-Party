@@ -1,5 +1,3 @@
-
-	
 // get length of path //
 var path = document.querySelector('path.hello');
 var length = path.getTotalLength();
@@ -24,7 +22,7 @@ $(document).ready(function() {
 		// regenerate animation on click //
 		$('button').on('click', function() {
 
-			// add animation to element //
+			// add animation to element //	
 			hello.attr('class',className + ' ' + animation);
 
 			// wait for animation to end, remove class // 
